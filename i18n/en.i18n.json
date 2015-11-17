@@ -1,0 +1,15 @@
+{
+    "userProfilePicture": "Avatar",
+    "userFirstName": "First Name",
+    "userLastName": "Last Name",
+    "userBirthday": "Birthday",
+    "country": "Country",
+    "zipCode": "Zip Code",
+    "city": "City",
+    "billingAddress": "Billing Address",
+    "userPhoneNumber": "Phone number",
+    "userPhoneCode": "Phone code",
+    "verified": "Verified",
+    "email": "Email",
+    "userEmailVerified": "Email verified"
+}
